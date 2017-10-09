@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface Model : NSObject
-
+ 
 @property (nonatomic, copy) NSString *userId;
 @property (nonatomic, copy) NSString *userName;
 @property (nonatomic, copy) NSString *passWord;

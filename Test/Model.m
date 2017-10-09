@@ -9,7 +9,7 @@
 #import "Model.h"
 
 @implementation Model
-
+ 
 //- (void)setUserId:(NSString *)userId {
 //    if ([userId isKindOfClass:[NSString class]]) {
 //        _userId = userId;
