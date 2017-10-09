@@ -10,7 +10,7 @@
 #import "ReactiveCocoa.h"
 
 @implementation ViewModel
-
+ 
 - (instancetype)initWithModel:(Model *)model {
     self = [super init];
     if (self) {
